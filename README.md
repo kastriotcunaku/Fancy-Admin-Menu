@@ -10,3 +10,6 @@ Simple Admin Dashboard Menu with Header and Sidebar
 ### Screenshots
 
 ![Alt text](/Screenshot_1.JPG?raw=true "Screenshot")
+
+### Demo
+[Codepen] (https://codepen.io/kastriotcunaku/pen/NgZjYp)
