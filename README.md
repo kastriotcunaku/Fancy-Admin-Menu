@@ -1,5 +1,5 @@
 # Fancy Admin Menu 
-Simple Admin Dashboard Menu with Header and Sidebar
+Simple Admin Dashboard Menu with header and sidebar inspired by Wordpress and Windows 10 Weather App
 
 ### Dependency
 
